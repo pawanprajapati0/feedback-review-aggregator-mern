@@ -1,3 +1,4 @@
+# feedback-review-aggregator-mern
 # Feedback & Review Aggregator Platform
 
 Open **README-HINGLISH.md** for beginner-friendly step-by-step installation instructions in Hinglish.
